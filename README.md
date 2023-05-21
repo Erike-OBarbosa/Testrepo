@@ -2,6 +2,6 @@
 
 ## Editing the file
 
-* Pull
+* Push
 
 Its a markdown file in this reposutory.
